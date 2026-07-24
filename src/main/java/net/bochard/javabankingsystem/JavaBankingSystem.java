@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package net.bochard.basicbankingsystem;
+package net.bochard.javabankingsystem;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author bochard
  */
 
-public class BasicBankingSystem {
+public class JavaBankingSystem {
   public static void main(String[] args) {
     int userChoice;
     double balance = 0.0;
